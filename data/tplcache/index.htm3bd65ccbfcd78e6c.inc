@@ -20,10 +20,10 @@ $z[4][4]['typeid']="4";
 $z[4][4]['limit']="3,2";
 $z[4][4]['titlelen']="32";
 $z[4][4]['orderby']="pubdate";
-$z[5]=Array("type"," <a href=\"[field:typelink/]\"><span>查看更多</span></a>",6334,6426);
+$z[5]=Array("type"," <a href=\"[field:typelink/]\"><span>查看更多</span></a>",6885,6977);
 $z[5][4]=array();
 $z[5][4]['typeid']="2";
-$z[6]=Array("include","",6534,6571);
+$z[6]=Array("include","",7085,7122);
 $z[6][4]=array();
 $z[6][4]['filename']="footer.htm";
 
