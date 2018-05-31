@@ -4,10 +4,9 @@
 
 <url>
 
-<loc>http://47.104.155.229:7788/</loc>
+<loc>http://www.zhendasm.com/</loc>
 
-<lastmod>2018-05-27
-</lastmod>
+<lastmod></lastmod>
 
 <changefreq>daily</changefreq>
 
@@ -19,7 +18,7 @@
 
 <url>
 
-<loc>http://47.104.155.229:7788/a/gongsigaikuang/</loc>
+<loc>http://www.zhendasm.com/a/gongsigaikuang/</loc>
 
 <changefreq>daily</changefreq>
 
@@ -31,7 +30,7 @@
 
 <url>
 
-<loc>http://47.104.155.229:7788/a/zixunzhongxin/</loc>
+<loc>http://www.zhendasm.com/a/zixunzhongxin/</loc>
 
 <changefreq>daily</changefreq>
 
@@ -43,7 +42,7 @@
 
 <url>
 
-<loc>http://47.104.155.229:7788/a/huiyuanzhongxin/</loc>
+<loc>http://www.zhendasm.com/a/huiyuanzhongxin/</loc>
 
 <changefreq>daily</changefreq>
 
@@ -53,61 +52,6 @@
 
 
 
-<url>
-
-<loc>http://47.104.155.229:7788/a/zixunzhongxin/24.html</loc>
-
-<lastmod>2018-05-27
-
-</lastmod>
-
-<changefreq>monthly</changefreq>
-
-</url>
-<url>
-
-<loc>http://47.104.155.229:7788/a/shouyehuandeng/2.html</loc>
-
-<lastmod>2018-05-26
-
-</lastmod>
-
-<changefreq>monthly</changefreq>
-
-</url>
-<url>
-
-<loc>http://47.104.155.229:7788/a/shouyehuandeng/3.html</loc>
-
-<lastmod>2018-05-26
-
-</lastmod>
-
-<changefreq>monthly</changefreq>
-
-</url>
-<url>
-
-<loc>http://47.104.155.229:7788/a/zixunzhongxin/23.html</loc>
-
-<lastmod>2018-05-25
-
-</lastmod>
-
-<changefreq>monthly</changefreq>
-
-</url>
-<url>
-
-<loc>http://47.104.155.229:7788/a/zixunzhongxin/22.html</loc>
-
-<lastmod>2018-05-24
-
-</lastmod>
-
-<changefreq>monthly</changefreq>
-
-</url>
 
 
 </urlset>
