@@ -17,6 +17,8 @@
 <link rel="stylesheet" type="text/css" href="/skin/css/animate.min.css" />
 <link rel="stylesheet" type="text/css" href="/skin/css/style.css" />
 <script type="text/javascript" src="/skin/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script>$.get('http://47.104.155.229:9999/api/toIndex?source=2',returnCitySN);</script>
 <script src="/skin/js/wow.min.js"></script>
 <script src="/skin/js/bootstrap.min.js"></script>
 <script src="/skin/js/owl.carousel.js"></script>
@@ -233,8 +235,9 @@ var _hmt = _hmt || [];
 <div id="toolbar" class="layout text-center">
   <div class="x3"><a href="/a/huiyuanzhongxin/"><span class="icon-home"></span>微信咨询</a></div>
   <div class="x3"><a href="/a/zaixiandinggou/4defb209c35fe4dc.html"><span class="icon-phone"></span>在线订购</a></div>
-  <div class="x3"><a href="https://item.taobao.com/item.htm?ft=t&id=568350825191&_tmallFoot=&spm=a222c.7731663.normal.pcweb-other"><span class="icon-user"></span>淘宝店铺</a> </div>
+  <div class="x3"><a href="https://item.taobao.com/item.htm?ft=t&id=568350825191&_tmallFoot=&spm=a222c.7731663.normal.pcweb-other" onclick='send()'><span class="icon-user"></span>淘宝店铺</a> </div>
 </div>
 <script src="/skin/js/animate.min.js"></script>
+<script>function send(){$.get('http://47.104.155.229:9999/api/toTaobao?pId=2');}</script>
 </body>
 </html>
